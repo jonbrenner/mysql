@@ -1,6 +1,6 @@
 --- !ruby/object:Gem::Specification 
 rubygems_version: 0.8.11
-specification_version: 1
+specification_version: 2
 name: mysql
 author: "TOMITA Masahiro, Elia Schito"
 version: !ruby/object:Gem::Version 
